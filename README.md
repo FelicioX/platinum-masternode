@@ -19,6 +19,19 @@ The images below show the Platinum Core wallet with the integrated masternode ma
 
 ---
 
+## 📋 Requirements
+
+Before running the installation script, make sure your server meets the following requirements:
+
+- Ubuntu 18.04 LTS or newer
+- Root or sudo privileges
+- Git
+- curl
+- wget
+- Internet connection
+
+---
+
 ## 🚀 Installation
 
 ```bash
