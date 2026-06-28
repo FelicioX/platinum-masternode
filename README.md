@@ -5,7 +5,7 @@ Scripts and tools for deploying and managing Platinum blockchain masternodes.
 
 ---
 
-## 🖥 Masternode Manager
+## Masternode Manager
 
 The images below show the Platinum Core wallet with the integrated masternode management interface.
 
@@ -19,7 +19,7 @@ The images below show the Platinum Core wallet with the integrated masternode ma
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 Before running the installation script, make sure your server meets the following requirements:
 
@@ -32,7 +32,7 @@ Before running the installation script, make sure your server meets the followin
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 sudo bash
@@ -48,7 +48,7 @@ chmod +x mn_platinum.sh
 
 ---
 
-## ⚙ Example Configuration
+## Example Configuration
 
 Example `platinum.conf`
 
